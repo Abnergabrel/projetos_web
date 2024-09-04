@@ -1,0 +1,22 @@
+.video-container{
+    position: relative;
+    width: 640;
+}
+.controls{
+    background-color: darkgray;
+    color: aliceblue;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+.controls button, .controls input{
+    margin-right: 10px;
+}
+.video{
+    width: 100%;
+    height: auto;
+}
