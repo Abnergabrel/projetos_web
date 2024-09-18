@@ -1,0 +1,70 @@
+body{
+  background-image: url(imgens/Coffee_Cup_511628_1920x1080.jpg);
+  background-repeat: no-repeat;
+  height: 2000px;
+  background-attachment: fixed;
+  font-family: 'Times New Roman', Times, serif;
+}
+.preço{
+  text-align: right;
+  width: 85%;
+  
+}
+h1{
+  font-family: Impact, serif;
+  text-align: center;
+  font-size: 30px;
+
+}
+h2, p {
+  text-align: center;
+}
+hr{
+  height: 2px;
+  background-color: #271D16;
+  border-color: #271D16;
+  width: 550px;
+  
+}
+.menu {
+  width: 80%;
+  background-color: #C4A98F;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 65px;
+  max-width: 900px;
+  border-radius: 20px;
+}
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 24px;
+}
+.flavor {
+  font-style: italic;
+  text-align: left;
+  width: 80%;
+}
+.descrição{
+  font-style: oblique;
+  text-align: left;
+  font-size: 14px;
+  color: black ;
+  margin-top: -20px;
+}
+.marca{
+  text-align: down;
+  font-size: 14px;
+}
+.logo{
+  align-items: center;
+}
+.icon3{
+  background-image: url(imgens/Coffe’Al.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 250px;
+  height: 200px;
+  margin-right: 0px;
+}
